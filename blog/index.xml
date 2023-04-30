@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on AnalyticsLogic Blog</title>
-    <link>http://happi4.github.io/blog/</link>
+    <link>https://happi4.github.io/blog/</link>
     <description>Recent content in Blogs on AnalyticsLogic Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Apr 2023 14:59:10 +0200</lastBuildDate><atom:link href="http://happi4.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Apr 2023 14:59:10 +0200</lastBuildDate><atom:link href="https://happi4.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstpost</title>
-      <link>http://happi4.github.io/blog/firstpost/</link>
+      <link>https://happi4.github.io/blog/firstpost/</link>
       <pubDate>Sun, 30 Apr 2023 14:59:10 +0200</pubDate>
       
-      <guid>http://happi4.github.io/blog/firstpost/</guid>
+      <guid>https://happi4.github.io/blog/firstpost/</guid>
       <description>Hello World </description>
     </item>
     
