@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on AnalyticsLogic Blog</title>
+    <title>Blogs on AnalyticsLogic</title>
     <link>https://happi4.github.io/blog/</link>
-    <description>Recent content in Blogs on AnalyticsLogic Blog</description>
+    <description>Recent content in Blogs on AnalyticsLogic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Apr 2023 14:59:10 +0200</lastBuildDate><atom:link href="https://happi4.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Firstpost</title>
+      <title>Self-Service Business Intelligence Explained</title>
       <link>https://happi4.github.io/blog/firstpost/</link>
       <pubDate>Sun, 30 Apr 2023 14:59:10 +0200</pubDate>
       
       <guid>https://happi4.github.io/blog/firstpost/</guid>
-      <description>Hello World </description>
+      <description>Self-Service Business Intelligence Self-Service Business Intelligence (SSBI) is a term that is commonly used today to describe a change in paradigm as we will see below. But first, lets go step-by-step. We will start with an introduction of terms before diving into considerations when implementing SSBI.
+Definition of Terms What is Business Intelligence? Whatever business you are in, it is probably already doing some form of BI. Because many businesses run on applications that generate huge amounts of data that need to be stored, processed and analysed to make business decisions e.</description>
     </item>
     
   </channel>
